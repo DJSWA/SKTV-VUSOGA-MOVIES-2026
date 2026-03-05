@@ -1,0 +1,8 @@
+Design a professional movie streaming app like Netflix using modern UI principles app should include the following features home screen with featured (eg trending top news releases, actions comedy drama horror)movie detail screen th
+at shows the title poster description rating releases year ,play button to stream the movie (use a video sample with URL ,search screen where users can search for movies by title or genre  , 
+Log in and sign up screen with email password fields and error handling  favourite screen where they can liked movies
+Navigation bar at the bottom with icons for home search ,favourites and profile 
+Profile screen that allows users to log outlander update their information use dark mode them with a sleek Netflix style design backend red accents movies  thumbnail and smooth transitions
+Make the responsive and optimised for both Android and ios
+Add animation when switching between screens and when opening a movies  detail
+Add a splash screen with application logo 
